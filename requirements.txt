@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+groq
+python-dotenv
+email-validator
+httpx
+scikit-learn
+reportlab
+python-docx
